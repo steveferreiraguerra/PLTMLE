@@ -6,8 +6,8 @@ The function PLTMLE2TP_CV serves to compute the cross-validated variance of the 
 
 ### References
 
-Petersen M, Schwab J, Gruber S, BlaserN, Schomaker M, Laan v. dM. Targeted maximum likelihood estimation for dynamic
+Petersen M, Schwab J, Gruber S, BlaserN, Schomaker M, van der Laan M. Targeted maximum likelihood estimation for dynamic
 and static longitudinal marginal structural working models. Journal of causal inference 2014; 2(2): 147–185.
 
-Schwab J, Lendle S, Petersen M, Laan v. dM. LTMLE: longitudinal targeted maximum likelihood estimation. 2013. R
+Schwab J, Lendle S, Petersen M, van der Laan M. LTMLE: longitudinal targeted maximum likelihood estimation. 2013. R
 package.
