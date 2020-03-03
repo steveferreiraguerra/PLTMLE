@@ -1,8 +1,8 @@
 # PLTMLE
 
-This repository contains sample R code to execute the pooled LTMLE algorithm, developped by Petersen *et al.* (2014). This code is similar to the one implemented in the *ltmleMSM* function in the *ltmle* R package version 1-1.0 developped by Schwab *et al.* (2013). However, this code is specific to the discretization problem presented in the manuscript "Impact of discretization of the timeline for longitudinal causal inference methods". The provided code is for a two time-point example and is presented as raw steps to illustrate the corresponding pooled LTMLE algorithm.
+This repository contains sample R code to execute the pooled LTMLE algorithm, developped by Petersen *et al.* (2014). This code is similar to the one implemented in the *ltmleMSM* function in the *ltmle* R package version 1-1.0 developped by Schwab *et al.* (2013). However, this code is specific to the discretization problem presented in the manuscript "Impact of discretization of the timeline for longitudinal causal inference methods". The provided code is for a two time-point example and is presented as raw steps to illustrate the corresponding pooled LTMLE algorithm. Hence, it is not optimal, since it aims to intuitively present the algorithm step by step.
 
-The function PLTMLE2TP_CV serves to compute the cross-validated variance of the pooled LTMLE estimate. Note that one can obtain the estimate by simply running the first part of the code, i.e. on the training data only.
+The function PLTMLE2TP_CV serves to compute the cross-validated variance of the pooled LTMLE estimate. Note that one can obtain the estimate from the MSM by simply running the first part of the code, i.e. on the training data only.
 
 ### References
 
